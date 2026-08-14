@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "社会议题"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "公民教育"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "个人作品"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "社团"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "中文资料备份"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T05:21:39.531Z",
+    "original_repository": "Terminus2049/Awesome-Social-Impact",
+    "original_repository_sha": "fc112c7273aac4516deea4653151da6bd44dca79",
+    "enhanced_repository": "enhansome/enhansome-Awesome-Social-Impact",
+    "enhanced_repository_description": null,
+    "title": "Awesome-Social-Impact with stars"
+  }
+}
