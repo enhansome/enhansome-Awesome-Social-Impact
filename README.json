@@ -105,7 +105,7 @@
             "last_commit": "2025-08-22T06:01:29Z",
             "owner": "996icu",
             "repo": "996.ICU",
-            "stars": 276773
+            "stars": 276787
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2025-08-22T06:01:29Z",
             "owner": "996icu",
             "repo": "996.ICU",
-            "stars": 276773
+            "stars": 276787
           }
         },
         {
@@ -225,7 +225,7 @@
             "last_commit": "2021-07-01T21:02:49Z",
             "owner": "evil-huawei",
             "repo": "evil-huawei",
-            "stars": 9279
+            "stars": 9284
           }
         },
         {
@@ -240,7 +240,7 @@
             "last_commit": "2021-07-01T21:02:49Z",
             "owner": "evil-huawei",
             "repo": "evil-huawei",
-            "stars": 9279
+            "stars": 9284
           }
         },
         {
@@ -513,7 +513,7 @@
             "last_commit": "2023-12-16T13:12:50Z",
             "owner": "Terminus2049",
             "repo": "Terminus2049.github.io",
-            "stars": 2307
+            "stars": 2310
           }
         },
         {
@@ -528,7 +528,7 @@
             "last_commit": "2023-12-16T13:12:50Z",
             "owner": "Terminus2049",
             "repo": "Terminus2049.github.io",
-            "stars": 2307
+            "stars": 2310
           }
         },
         {
@@ -933,7 +933,7 @@
             "last_commit": "2022-07-21T02:07:44Z",
             "owner": "speechfree",
             "repo": "cultural-revolution-database",
-            "stars": 119
+            "stars": 120
           }
         },
         {
@@ -948,7 +948,7 @@
             "last_commit": "2022-07-21T02:07:44Z",
             "owner": "speechfree",
             "repo": "cultural-revolution-database",
-            "stars": 119
+            "stars": 120
           }
         },
         {
@@ -993,7 +993,7 @@
             "last_commit": "2023-02-14T02:24:32Z",
             "owner": "program-think-mirrors",
             "repo": "books",
-            "stars": 575
+            "stars": 576
           }
         },
         {
@@ -1008,7 +1008,7 @@
             "last_commit": "2023-02-14T02:24:32Z",
             "owner": "program-think-mirrors",
             "repo": "books",
-            "stars": 575
+            "stars": 576
           }
         },
         {
@@ -1046,9 +1046,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T04:26:48.539Z",
-    "original_repository": "Terminus2049/Awesome-Social-Impact",
-    "original_repository_id": 230199214,
+    "last_updated": "2026-08-27T11:28:25.190Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 230199214,
+      "language": null,
+      "last_commit": "2020-02-06T16:49:53Z",
+      "owner": "Terminus2049",
+      "repo": "Awesome-Social-Impact",
+      "stars": 148
+    },
     "original_repository_sha": "fc112c7273aac4516deea4653151da6bd44dca79",
     "enhanced_repository": "enhansome/enhansome-Awesome-Social-Impact",
     "enhanced_repository_description": null,
