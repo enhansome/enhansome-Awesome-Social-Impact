@@ -155,7 +155,7 @@
             "open_issues": 16695,
             "owner": "996icu",
             "repo": "996.ICU",
-            "stars": 276800,
+            "stars": 276799,
             "topics": []
           },
           "first_seen": "2026-08-28T15:42:21.935Z"
@@ -176,7 +176,7 @@
             "open_issues": 16695,
             "owner": "996icu",
             "repo": "996.ICU",
-            "stars": 276800,
+            "stars": 276799,
             "topics": []
           },
           "first_seen": "2026-08-28T15:42:21.935Z"
@@ -1548,7 +1548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:55:38.745Z",
+    "last_updated": "2026-08-29T10:29:24.866Z",
     "original_repository_info": {
       "archived": false,
       "description": "社会议题相关的 GitHub 项目",
