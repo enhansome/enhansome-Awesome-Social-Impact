@@ -155,7 +155,7 @@
             "open_issues": 16695,
             "owner": "996icu",
             "repo": "996.ICU",
-            "stars": 276799,
+            "stars": 276803,
             "topics": []
           },
           "first_seen": "2026-08-28T15:42:21.935Z"
@@ -176,7 +176,7 @@
             "open_issues": 16695,
             "owner": "996icu",
             "repo": "996.ICU",
-            "stars": 276799,
+            "stars": 276803,
             "topics": []
           },
           "first_seen": "2026-08-28T15:42:21.935Z"
@@ -333,7 +333,7 @@
             "open_issues": 4,
             "owner": "evil-huawei",
             "repo": "evil-huawei",
-            "stars": 9285,
+            "stars": 9283,
             "topics": [
               "evil",
               "huawei"
@@ -357,7 +357,7 @@
             "open_issues": 4,
             "owner": "evil-huawei",
             "repo": "evil-huawei",
-            "stars": 9285,
+            "stars": 9283,
             "topics": [
               "evil",
               "huawei"
@@ -465,7 +465,7 @@
             "open_issues": 83,
             "owner": "2019ncovmemory",
             "repo": "nCovMemory",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "2019-ncov",
               "coronavirus",
@@ -492,7 +492,7 @@
             "open_issues": 83,
             "owner": "2019ncovmemory",
             "repo": "nCovMemory",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "2019-ncov",
               "coronavirus",
@@ -1548,7 +1548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T10:29:24.866Z",
+    "last_updated": "2026-08-30T09:29:43.919Z",
     "original_repository_info": {
       "archived": false,
       "description": "社会议题相关的 GitHub 项目",
