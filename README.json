@@ -155,7 +155,7 @@
             "open_issues": 16695,
             "owner": "996icu",
             "repo": "996.ICU",
-            "stars": 276811,
+            "stars": 276818,
             "topics": []
           },
           "first_seen": "2026-08-28T15:42:21.935Z"
@@ -176,7 +176,7 @@
             "open_issues": 16695,
             "owner": "996icu",
             "repo": "996.ICU",
-            "stars": 276811,
+            "stars": 276818,
             "topics": []
           },
           "first_seen": "2026-08-28T15:42:21.935Z"
@@ -333,7 +333,7 @@
             "open_issues": 4,
             "owner": "evil-huawei",
             "repo": "evil-huawei",
-            "stars": 9283,
+            "stars": 9282,
             "topics": [
               "evil",
               "huawei"
@@ -357,7 +357,7 @@
             "open_issues": 4,
             "owner": "evil-huawei",
             "repo": "evil-huawei",
-            "stars": 9283,
+            "stars": 9282,
             "topics": [
               "evil",
               "huawei"
@@ -1075,7 +1075,7 @@
             "open_issues": 2,
             "owner": "PincongBackup",
             "repo": "PincongBackup.github.io",
-            "stars": 124,
+            "stars": 125,
             "topics": []
           },
           "first_seen": "2026-08-28T15:42:21.935Z"
@@ -1096,7 +1096,7 @@
             "open_issues": 2,
             "owner": "PincongBackup",
             "repo": "PincongBackup.github.io",
-            "stars": 124,
+            "stars": 125,
             "topics": []
           },
           "first_seen": "2026-08-28T15:42:21.935Z"
@@ -1467,7 +1467,7 @@
             "open_issues": 5,
             "owner": "program-think-mirrors",
             "repo": "books",
-            "stars": 576,
+            "stars": 577,
             "topics": [
               "book",
               "ebook",
@@ -1492,7 +1492,7 @@
             "open_issues": 5,
             "owner": "program-think-mirrors",
             "repo": "books",
-            "stars": 576,
+            "stars": 577,
             "topics": [
               "book",
               "ebook",
@@ -1548,7 +1548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T10:07:33.353Z",
+    "last_updated": "2026-09-01T08:56:01.303Z",
     "original_repository_info": {
       "archived": false,
       "description": "社会议题相关的 GitHub 项目",
