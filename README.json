@@ -155,7 +155,7 @@
             "open_issues": 16695,
             "owner": "996icu",
             "repo": "996.ICU",
-            "stars": 276818,
+            "stars": 276836,
             "topics": []
           },
           "first_seen": "2026-08-28T15:42:21.935Z"
@@ -176,7 +176,7 @@
             "open_issues": 16695,
             "owner": "996icu",
             "repo": "996.ICU",
-            "stars": 276818,
+            "stars": 276836,
             "topics": []
           },
           "first_seen": "2026-08-28T15:42:21.935Z"
@@ -759,7 +759,7 @@
             "open_issues": 55,
             "owner": "Terminus2049",
             "repo": "Terminus2049.github.io",
-            "stars": 2314,
+            "stars": 2318,
             "topics": [
               "anticensorship",
               "github-pages",
@@ -785,7 +785,7 @@
             "open_issues": 55,
             "owner": "Terminus2049",
             "repo": "Terminus2049.github.io",
-            "stars": 2314,
+            "stars": 2318,
             "topics": [
               "anticensorship",
               "github-pages",
@@ -1548,7 +1548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T08:56:01.303Z",
+    "last_updated": "2026-09-02T08:09:36.031Z",
     "original_repository_info": {
       "archived": false,
       "description": "社会议题相关的 GitHub 项目",
