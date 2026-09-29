@@ -155,7 +155,7 @@
             "open_issues": 16694,
             "owner": "996icu",
             "repo": "996.ICU",
-            "stars": 277245,
+            "stars": 277244,
             "topics": []
           },
           "first_seen": "2026-08-28T15:42:21.935Z"
@@ -176,7 +176,7 @@
             "open_issues": 16694,
             "owner": "996icu",
             "repo": "996.ICU",
-            "stars": 277245,
+            "stars": 277244,
             "topics": []
           },
           "first_seen": "2026-08-28T15:42:21.935Z"
@@ -333,7 +333,7 @@
             "open_issues": 4,
             "owner": "evil-huawei",
             "repo": "evil-huawei",
-            "stars": 9291,
+            "stars": 9292,
             "topics": [
               "evil",
               "huawei"
@@ -357,7 +357,7 @@
             "open_issues": 4,
             "owner": "evil-huawei",
             "repo": "evil-huawei",
-            "stars": 9291,
+            "stars": 9292,
             "topics": [
               "evil",
               "huawei"
@@ -1548,7 +1548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T10:11:51.240Z",
+    "last_updated": "2026-09-29T10:09:52.543Z",
     "original_repository_info": {
       "archived": false,
       "description": "社会议题相关的 GitHub 项目",
