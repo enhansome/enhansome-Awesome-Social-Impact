@@ -152,10 +152,10 @@
             "language": null,
             "license": "NOASSERTION",
             "last_commit": "2025-08-22T06:01:29Z",
-            "open_issues": 16694,
+            "open_issues": 16695,
             "owner": "996icu",
             "repo": "996.ICU",
-            "stars": 277270,
+            "stars": 277277,
             "topics": []
           },
           "first_seen": "2026-08-28T15:42:21.935Z"
@@ -173,10 +173,10 @@
             "language": null,
             "license": "NOASSERTION",
             "last_commit": "2025-08-22T06:01:29Z",
-            "open_issues": 16694,
+            "open_issues": 16695,
             "owner": "996icu",
             "repo": "996.ICU",
-            "stars": 277270,
+            "stars": 277277,
             "topics": []
           },
           "first_seen": "2026-08-28T15:42:21.935Z"
@@ -1548,7 +1548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T10:14:27.028Z",
+    "last_updated": "2026-10-05T10:53:23.075Z",
     "original_repository_info": {
       "archived": false,
       "description": "社会议题相关的 GitHub 项目",
