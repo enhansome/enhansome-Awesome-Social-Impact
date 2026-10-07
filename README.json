@@ -113,7 +113,7 @@
             "open_issues": 11,
             "owner": "Terminus2049",
             "repo": "Not-exist-in-douban",
-            "stars": 751,
+            "stars": 752,
             "topics": []
           },
           "first_seen": "2026-08-28T15:42:21.935Z"
@@ -134,7 +134,7 @@
             "open_issues": 11,
             "owner": "Terminus2049",
             "repo": "Not-exist-in-douban",
-            "stars": 751,
+            "stars": 752,
             "topics": []
           },
           "first_seen": "2026-08-28T15:42:21.935Z"
@@ -155,7 +155,7 @@
             "open_issues": 16695,
             "owner": "996icu",
             "repo": "996.ICU",
-            "stars": 277272,
+            "stars": 277273,
             "topics": []
           },
           "first_seen": "2026-08-28T15:42:21.935Z"
@@ -176,7 +176,7 @@
             "open_issues": 16695,
             "owner": "996icu",
             "repo": "996.ICU",
-            "stars": 277272,
+            "stars": 277273,
             "topics": []
           },
           "first_seen": "2026-08-28T15:42:21.935Z"
@@ -333,7 +333,7 @@
             "open_issues": 4,
             "owner": "evil-huawei",
             "repo": "evil-huawei",
-            "stars": 9292,
+            "stars": 9291,
             "topics": [
               "evil",
               "huawei"
@@ -357,7 +357,7 @@
             "open_issues": 4,
             "owner": "evil-huawei",
             "repo": "evil-huawei",
-            "stars": 9292,
+            "stars": 9291,
             "topics": [
               "evil",
               "huawei"
@@ -759,7 +759,7 @@
             "open_issues": 55,
             "owner": "Terminus2049",
             "repo": "Terminus2049.github.io",
-            "stars": 2385,
+            "stars": 2388,
             "topics": [
               "anticensorship",
               "github-pages",
@@ -785,7 +785,7 @@
             "open_issues": 55,
             "owner": "Terminus2049",
             "repo": "Terminus2049.github.io",
-            "stars": 2385,
+            "stars": 2388,
             "topics": [
               "anticensorship",
               "github-pages",
@@ -1548,7 +1548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:10:45.333Z",
+    "last_updated": "2026-10-07T10:36:31.158Z",
     "original_repository_info": {
       "archived": false,
       "description": "社会议题相关的 GitHub 项目",
