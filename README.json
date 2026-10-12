@@ -155,7 +155,7 @@
             "open_issues": 16689,
             "owner": "996icu",
             "repo": "996.ICU",
-            "stars": 277116,
+            "stars": 277132,
             "topics": []
           },
           "first_seen": "2026-08-28T15:42:21.935Z"
@@ -176,7 +176,7 @@
             "open_issues": 16689,
             "owner": "996icu",
             "repo": "996.ICU",
-            "stars": 277116,
+            "stars": 277132,
             "topics": []
           },
           "first_seen": "2026-08-28T15:42:21.935Z"
@@ -333,7 +333,7 @@
             "open_issues": 4,
             "owner": "evil-huawei",
             "repo": "evil-huawei",
-            "stars": 9297,
+            "stars": 9429,
             "topics": [
               "evil",
               "huawei"
@@ -357,7 +357,7 @@
             "open_issues": 4,
             "owner": "evil-huawei",
             "repo": "evil-huawei",
-            "stars": 9297,
+            "stars": 9429,
             "topics": [
               "evil",
               "huawei"
@@ -759,7 +759,7 @@
             "open_issues": 55,
             "owner": "Terminus2049",
             "repo": "Terminus2049.github.io",
-            "stars": 2396,
+            "stars": 2397,
             "topics": [
               "anticensorship",
               "github-pages",
@@ -785,7 +785,7 @@
             "open_issues": 55,
             "owner": "Terminus2049",
             "repo": "Terminus2049.github.io",
-            "stars": 2396,
+            "stars": 2397,
             "topics": [
               "anticensorship",
               "github-pages",
@@ -1165,7 +1165,7 @@
             "open_issues": 6,
             "owner": "LampScript",
             "repo": "qdaily_backup",
-            "stars": 1406,
+            "stars": 1407,
             "topics": []
           },
           "first_seen": "2026-08-28T15:42:21.935Z"
@@ -1186,7 +1186,7 @@
             "open_issues": 6,
             "owner": "LampScript",
             "repo": "qdaily_backup",
-            "stars": 1406,
+            "stars": 1407,
             "topics": []
           },
           "first_seen": "2026-08-28T15:42:21.935Z"
@@ -1467,7 +1467,7 @@
             "open_issues": 5,
             "owner": "program-think-mirrors",
             "repo": "books",
-            "stars": 580,
+            "stars": 581,
             "topics": [
               "book",
               "ebook",
@@ -1492,7 +1492,7 @@
             "open_issues": 5,
             "owner": "program-think-mirrors",
             "repo": "books",
-            "stars": 580,
+            "stars": 581,
             "topics": [
               "book",
               "ebook",
@@ -1548,7 +1548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T10:20:34.114Z",
+    "last_updated": "2026-10-12T11:21:44.465Z",
     "original_repository_info": {
       "archived": false,
       "description": "社会议题相关的 GitHub 项目",
