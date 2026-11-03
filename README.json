@@ -155,7 +155,7 @@
             "open_issues": 16689,
             "owner": "996icu",
             "repo": "996.ICU",
-            "stars": 277208,
+            "stars": 277207,
             "topics": []
           },
           "first_seen": "2026-08-28T15:42:21.935Z"
@@ -176,7 +176,7 @@
             "open_issues": 16689,
             "owner": "996icu",
             "repo": "996.ICU",
-            "stars": 277208,
+            "stars": 277207,
             "topics": []
           },
           "first_seen": "2026-08-28T15:42:21.935Z"
@@ -197,7 +197,7 @@
             "open_issues": 2,
             "owner": "fuckcqcs",
             "repo": "fuckcqcs",
-            "stars": 4289,
+            "stars": 4288,
             "topics": []
           },
           "first_seen": "2026-08-28T15:42:21.935Z"
@@ -218,7 +218,7 @@
             "open_issues": 2,
             "owner": "fuckcqcs",
             "repo": "fuckcqcs",
-            "stars": 4289,
+            "stars": 4288,
             "topics": []
           },
           "first_seen": "2026-08-28T15:42:21.935Z"
@@ -381,7 +381,7 @@
             "open_issues": 9,
             "owner": "renjie-feng-trash",
             "repo": "fengrenjie",
-            "stars": 680,
+            "stars": 681,
             "topics": []
           },
           "first_seen": "2026-08-28T15:42:21.935Z"
@@ -402,7 +402,7 @@
             "open_issues": 9,
             "owner": "renjie-feng-trash",
             "repo": "fengrenjie",
-            "stars": 680,
+            "stars": 681,
             "topics": []
           },
           "first_seen": "2026-08-28T15:42:21.935Z"
@@ -465,7 +465,7 @@
             "open_issues": 83,
             "owner": "2019ncovmemory",
             "repo": "nCovMemory",
-            "stars": 131,
+            "stars": 132,
             "topics": [
               "2019-ncov",
               "coronavirus",
@@ -492,7 +492,7 @@
             "open_issues": 83,
             "owner": "2019ncovmemory",
             "repo": "nCovMemory",
-            "stars": 131,
+            "stars": 132,
             "topics": [
               "2019-ncov",
               "coronavirus",
@@ -759,7 +759,7 @@
             "open_issues": 56,
             "owner": "Terminus2049",
             "repo": "Terminus2049.github.io",
-            "stars": 2436,
+            "stars": 2440,
             "topics": [
               "anticensorship",
               "github-pages",
@@ -785,7 +785,7 @@
             "open_issues": 56,
             "owner": "Terminus2049",
             "repo": "Terminus2049.github.io",
-            "stars": 2436,
+            "stars": 2440,
             "topics": [
               "anticensorship",
               "github-pages",
@@ -1548,7 +1548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T11:43:07.998Z",
+    "last_updated": "2026-11-03T11:25:14.718Z",
     "original_repository_info": {
       "archived": false,
       "description": "社会议题相关的 GitHub 项目",
