@@ -155,7 +155,7 @@
             "open_issues": 16684,
             "owner": "996icu",
             "repo": "996.ICU",
-            "stars": 277204,
+            "stars": 277210,
             "topics": []
           },
           "first_seen": "2026-08-28T15:42:21.935Z"
@@ -176,7 +176,7 @@
             "open_issues": 16684,
             "owner": "996icu",
             "repo": "996.ICU",
-            "stars": 277204,
+            "stars": 277210,
             "topics": []
           },
           "first_seen": "2026-08-28T15:42:21.935Z"
@@ -197,7 +197,7 @@
             "open_issues": 2,
             "owner": "fuckcqcs",
             "repo": "fuckcqcs",
-            "stars": 4288,
+            "stars": 4287,
             "topics": []
           },
           "first_seen": "2026-08-28T15:42:21.935Z"
@@ -218,7 +218,7 @@
             "open_issues": 2,
             "owner": "fuckcqcs",
             "repo": "fuckcqcs",
-            "stars": 4288,
+            "stars": 4287,
             "topics": []
           },
           "first_seen": "2026-08-28T15:42:21.935Z"
@@ -333,7 +333,7 @@
             "open_issues": 4,
             "owner": "evil-huawei",
             "repo": "evil-huawei",
-            "stars": 9493,
+            "stars": 9492,
             "topics": [
               "evil",
               "huawei"
@@ -357,7 +357,7 @@
             "open_issues": 4,
             "owner": "evil-huawei",
             "repo": "evil-huawei",
-            "stars": 9493,
+            "stars": 9492,
             "topics": [
               "evil",
               "huawei"
@@ -759,7 +759,7 @@
             "open_issues": 56,
             "owner": "Terminus2049",
             "repo": "Terminus2049.github.io",
-            "stars": 2443,
+            "stars": 2446,
             "topics": [
               "anticensorship",
               "github-pages",
@@ -785,7 +785,7 @@
             "open_issues": 56,
             "owner": "Terminus2049",
             "repo": "Terminus2049.github.io",
-            "stars": 2443,
+            "stars": 2446,
             "topics": [
               "anticensorship",
               "github-pages",
@@ -1379,7 +1379,7 @@
             "open_issues": 2,
             "owner": "speechfree",
             "repo": "cultural-revolution-database",
-            "stars": 122,
+            "stars": 123,
             "topics": []
           },
           "first_seen": "2026-08-28T15:42:21.935Z"
@@ -1400,7 +1400,7 @@
             "open_issues": 2,
             "owner": "speechfree",
             "repo": "cultural-revolution-database",
-            "stars": 122,
+            "stars": 123,
             "topics": []
           },
           "first_seen": "2026-08-28T15:42:21.935Z"
@@ -1548,7 +1548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T11:39:24.442Z",
+    "last_updated": "2026-11-06T11:37:39.623Z",
     "original_repository_info": {
       "archived": false,
       "description": "社会议题相关的 GitHub 项目",
