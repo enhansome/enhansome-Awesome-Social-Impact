@@ -113,7 +113,7 @@
             "open_issues": 11,
             "owner": "Terminus2049",
             "repo": "Not-exist-in-douban",
-            "stars": 751,
+            "stars": 752,
             "topics": []
           },
           "first_seen": "2026-08-28T15:42:21.935Z"
@@ -134,7 +134,7 @@
             "open_issues": 11,
             "owner": "Terminus2049",
             "repo": "Not-exist-in-douban",
-            "stars": 751,
+            "stars": 752,
             "topics": []
           },
           "first_seen": "2026-08-28T15:42:21.935Z"
@@ -155,7 +155,7 @@
             "open_issues": 16684,
             "owner": "996icu",
             "repo": "996.ICU",
-            "stars": 277211,
+            "stars": 277213,
             "topics": []
           },
           "first_seen": "2026-08-28T15:42:21.935Z"
@@ -176,7 +176,7 @@
             "open_issues": 16684,
             "owner": "996icu",
             "repo": "996.ICU",
-            "stars": 277211,
+            "stars": 277213,
             "topics": []
           },
           "first_seen": "2026-08-28T15:42:21.935Z"
@@ -281,7 +281,7 @@
             "open_issues": 0,
             "owner": "chinatimeline",
             "repo": "data",
-            "stars": 172,
+            "stars": 173,
             "topics": [
               "chinese",
               "civil-services",
@@ -307,7 +307,7 @@
             "open_issues": 0,
             "owner": "chinatimeline",
             "repo": "data",
-            "stars": 172,
+            "stars": 173,
             "topics": [
               "chinese",
               "civil-services",
@@ -333,7 +333,7 @@
             "open_issues": 4,
             "owner": "evil-huawei",
             "repo": "evil-huawei",
-            "stars": 9489,
+            "stars": 9488,
             "topics": [
               "evil",
               "huawei"
@@ -357,7 +357,7 @@
             "open_issues": 4,
             "owner": "evil-huawei",
             "repo": "evil-huawei",
-            "stars": 9489,
+            "stars": 9488,
             "topics": [
               "evil",
               "huawei"
@@ -615,7 +615,7 @@
             "open_issues": 4,
             "owner": "ChenChunCamus",
             "repo": "article",
-            "stars": 489,
+            "stars": 488,
             "topics": []
           },
           "first_seen": "2026-08-28T15:42:21.935Z"
@@ -636,7 +636,7 @@
             "open_issues": 4,
             "owner": "ChenChunCamus",
             "repo": "article",
-            "stars": 489,
+            "stars": 488,
             "topics": []
           },
           "first_seen": "2026-08-28T15:42:21.935Z"
@@ -759,7 +759,7 @@
             "open_issues": 56,
             "owner": "Terminus2049",
             "repo": "Terminus2049.github.io",
-            "stars": 2443,
+            "stars": 2447,
             "topics": [
               "anticensorship",
               "github-pages",
@@ -785,7 +785,7 @@
             "open_issues": 56,
             "owner": "Terminus2049",
             "repo": "Terminus2049.github.io",
-            "stars": 2443,
+            "stars": 2447,
             "topics": [
               "anticensorship",
               "github-pages",
@@ -1548,7 +1548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T10:43:18.232Z",
+    "last_updated": "2026-11-08T10:47:56.768Z",
     "original_repository_info": {
       "archived": false,
       "description": "社会议题相关的 GitHub 项目",
@@ -1560,7 +1560,7 @@
       "open_issues": 1,
       "owner": "Terminus2049",
       "repo": "Awesome-Social-Impact",
-      "stars": 148,
+      "stars": 149,
       "topics": [
         "awesome",
         "awesome-list",
