@@ -155,7 +155,7 @@
             "open_issues": 16685,
             "owner": "996icu",
             "repo": "996.ICU",
-            "stars": 277221,
+            "stars": 277225,
             "topics": []
           },
           "first_seen": "2026-08-28T15:42:21.935Z"
@@ -176,7 +176,7 @@
             "open_issues": 16685,
             "owner": "996icu",
             "repo": "996.ICU",
-            "stars": 277221,
+            "stars": 277225,
             "topics": []
           },
           "first_seen": "2026-08-28T15:42:21.935Z"
@@ -333,7 +333,7 @@
             "open_issues": 3,
             "owner": "evil-huawei",
             "repo": "evil-huawei",
-            "stars": 9487,
+            "stars": 9488,
             "topics": [
               "evil",
               "huawei"
@@ -357,7 +357,7 @@
             "open_issues": 3,
             "owner": "evil-huawei",
             "repo": "evil-huawei",
-            "stars": 9487,
+            "stars": 9488,
             "topics": [
               "evil",
               "huawei"
@@ -759,7 +759,7 @@
             "open_issues": 56,
             "owner": "Terminus2049",
             "repo": "Terminus2049.github.io",
-            "stars": 2460,
+            "stars": 2462,
             "topics": [
               "anticensorship",
               "github-pages",
@@ -785,7 +785,7 @@
             "open_issues": 56,
             "owner": "Terminus2049",
             "repo": "Terminus2049.github.io",
-            "stars": 2460,
+            "stars": 2462,
             "topics": [
               "anticensorship",
               "github-pages",
@@ -1379,7 +1379,7 @@
             "open_issues": 2,
             "owner": "speechfree",
             "repo": "cultural-revolution-database",
-            "stars": 124,
+            "stars": 125,
             "topics": []
           },
           "first_seen": "2026-08-28T15:42:21.935Z"
@@ -1400,7 +1400,7 @@
             "open_issues": 2,
             "owner": "speechfree",
             "repo": "cultural-revolution-database",
-            "stars": 124,
+            "stars": 125,
             "topics": []
           },
           "first_seen": "2026-08-28T15:42:21.935Z"
@@ -1548,7 +1548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T11:38:16.542Z",
+    "last_updated": "2026-11-14T10:59:41.757Z",
     "original_repository_info": {
       "archived": false,
       "description": "社会议题相关的 GitHub 项目",
