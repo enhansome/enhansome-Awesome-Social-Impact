@@ -155,7 +155,7 @@
             "open_issues": 16683,
             "owner": "996icu",
             "repo": "996.ICU",
-            "stars": 277239,
+            "stars": 277244,
             "topics": []
           },
           "first_seen": "2026-08-28T15:42:21.935Z"
@@ -176,7 +176,7 @@
             "open_issues": 16683,
             "owner": "996icu",
             "repo": "996.ICU",
-            "stars": 277239,
+            "stars": 277244,
             "topics": []
           },
           "first_seen": "2026-08-28T15:42:21.935Z"
@@ -759,7 +759,7 @@
             "open_issues": 56,
             "owner": "Terminus2049",
             "repo": "Terminus2049.github.io",
-            "stars": 2472,
+            "stars": 2461,
             "topics": [
               "anticensorship",
               "github-pages",
@@ -785,7 +785,7 @@
             "open_issues": 56,
             "owner": "Terminus2049",
             "repo": "Terminus2049.github.io",
-            "stars": 2472,
+            "stars": 2461,
             "topics": [
               "anticensorship",
               "github-pages",
@@ -1165,7 +1165,7 @@
             "open_issues": 6,
             "owner": "LampScript",
             "repo": "qdaily_backup",
-            "stars": 1410,
+            "stars": 1409,
             "topics": []
           },
           "first_seen": "2026-08-28T15:42:21.935Z"
@@ -1186,7 +1186,7 @@
             "open_issues": 6,
             "owner": "LampScript",
             "repo": "qdaily_backup",
-            "stars": 1410,
+            "stars": 1409,
             "topics": []
           },
           "first_seen": "2026-08-28T15:42:21.935Z"
@@ -1548,7 +1548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T12:15:58.205Z",
+    "last_updated": "2026-11-20T12:14:36.837Z",
     "original_repository_info": {
       "archived": false,
       "description": "社会议题相关的 GitHub 项目",
