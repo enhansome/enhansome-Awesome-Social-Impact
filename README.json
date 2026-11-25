@@ -155,7 +155,7 @@
             "open_issues": 16683,
             "owner": "996icu",
             "repo": "996.ICU",
-            "stars": 277260,
+            "stars": 277257,
             "topics": []
           },
           "first_seen": "2026-08-28T15:42:21.935Z"
@@ -176,7 +176,7 @@
             "open_issues": 16683,
             "owner": "996icu",
             "repo": "996.ICU",
-            "stars": 277260,
+            "stars": 277257,
             "topics": []
           },
           "first_seen": "2026-08-28T15:42:21.935Z"
@@ -333,7 +333,7 @@
             "open_issues": 3,
             "owner": "evil-huawei",
             "repo": "evil-huawei",
-            "stars": 9498,
+            "stars": 9499,
             "topics": [
               "evil",
               "huawei"
@@ -357,7 +357,7 @@
             "open_issues": 3,
             "owner": "evil-huawei",
             "repo": "evil-huawei",
-            "stars": 9498,
+            "stars": 9499,
             "topics": [
               "evil",
               "huawei"
@@ -759,7 +759,7 @@
             "open_issues": 56,
             "owner": "Terminus2049",
             "repo": "Terminus2049.github.io",
-            "stars": 2469,
+            "stars": 2470,
             "topics": [
               "anticensorship",
               "github-pages",
@@ -785,7 +785,7 @@
             "open_issues": 56,
             "owner": "Terminus2049",
             "repo": "Terminus2049.github.io",
-            "stars": 2469,
+            "stars": 2470,
             "topics": [
               "anticensorship",
               "github-pages",
@@ -1548,7 +1548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T14:19:52.697Z",
+    "last_updated": "2026-11-25T13:38:47.279Z",
     "original_repository_info": {
       "archived": false,
       "description": "社会议题相关的 GitHub 项目",
