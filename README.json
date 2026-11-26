@@ -152,10 +152,10 @@
             "language": null,
             "license": "NOASSERTION",
             "last_commit": "2025-08-22T06:01:29Z",
-            "open_issues": 16683,
+            "open_issues": 16682,
             "owner": "996icu",
             "repo": "996.ICU",
-            "stars": 277257,
+            "stars": 277252,
             "topics": []
           },
           "first_seen": "2026-08-28T15:42:21.935Z"
@@ -173,10 +173,10 @@
             "language": null,
             "license": "NOASSERTION",
             "last_commit": "2025-08-22T06:01:29Z",
-            "open_issues": 16683,
+            "open_issues": 16682,
             "owner": "996icu",
             "repo": "996.ICU",
-            "stars": 277257,
+            "stars": 277252,
             "topics": []
           },
           "first_seen": "2026-08-28T15:42:21.935Z"
@@ -197,7 +197,7 @@
             "open_issues": 2,
             "owner": "fuckcqcs",
             "repo": "fuckcqcs",
-            "stars": 4285,
+            "stars": 4286,
             "topics": []
           },
           "first_seen": "2026-08-28T15:42:21.935Z"
@@ -218,7 +218,7 @@
             "open_issues": 2,
             "owner": "fuckcqcs",
             "repo": "fuckcqcs",
-            "stars": 4285,
+            "stars": 4286,
             "topics": []
           },
           "first_seen": "2026-08-28T15:42:21.935Z"
@@ -333,7 +333,7 @@
             "open_issues": 3,
             "owner": "evil-huawei",
             "repo": "evil-huawei",
-            "stars": 9499,
+            "stars": 9500,
             "topics": [
               "evil",
               "huawei"
@@ -357,7 +357,7 @@
             "open_issues": 3,
             "owner": "evil-huawei",
             "repo": "evil-huawei",
-            "stars": 9499,
+            "stars": 9500,
             "topics": [
               "evil",
               "huawei"
@@ -1548,7 +1548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T13:38:47.279Z",
+    "last_updated": "2026-11-26T13:15:28.035Z",
     "original_repository_info": {
       "archived": false,
       "description": "社会议题相关的 GitHub 项目",
